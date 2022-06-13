@@ -1,3 +1,12 @@
+# argocd-app-config
+
+ Forked From https://gitlab.com/nanuchi/argocd-app-config
+
+##  video
+
+- ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes - YouTube
+  - https://www.youtube.com/watch?v=MeU5_k9ssrs
+
 #### Commands
 
 ```bash
